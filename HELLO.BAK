@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+int add(int a, int b){
+return a+b;
+}
+
+void main(){
+clrscr();
+printf("%d",add(5,6));
+getch()d;
+}
